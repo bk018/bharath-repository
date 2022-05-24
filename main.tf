@@ -6,7 +6,7 @@ provider "aws" {
 
 resource "aws_instance" "web" {
   ami           = "ami-0022f774911c1d690"
-  instance_type = var.instance_type
+  instance_type = "t2.nano"
 }
 
 resource "aws_eip" "lb" {
