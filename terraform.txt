@@ -1,3 +1,0 @@
-Hi I am learning terraform
-
-great to hear that bharath
