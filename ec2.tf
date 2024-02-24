@@ -4,3 +4,4 @@ resource "aws_instance" "mye1c2" {
   instance_type = "t2.micro"
 }
 
+hello bharath
