@@ -11,3 +11,6 @@ provider "aws" {
 provider "Azure" {
   
 }
+
+
+added this in browser
