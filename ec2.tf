@@ -7,3 +7,7 @@ resource "aws_instance" "mye1c2" {
 provider "aws" {
   
 }
+
+provider "Azure" {
+  
+}
